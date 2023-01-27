@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84088721122",
+    "firebase_url": "https://snapdf-7023c.firebaseio.com",
+    "project_id": "snapdf-7023c",
+    "storage_bucket": "snapdf-7023c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84088721122:android:9919fae838b7dd05ae58bb",
+        "android_client_info": {
+          "package_name": "com.example.snapdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84088721122-oiu9p0ve1q06rq8jn39ptrihpibc9dha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snapdf",
+            "certificate_hash": "f5196490379ecf808bcfe564e8c9825581571900"
+          }
+        },
+        {
+          "client_id": "84088721122-p1uo23uv45a9hbmdn27jp4nahtjrq0o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16X--F5zFhm4b6YnxjBKNnclfaU-SejU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84088721122-p1uo23uv45a9hbmdn27jp4nahtjrq0o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
